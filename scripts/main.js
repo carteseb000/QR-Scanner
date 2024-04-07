@@ -1,33 +1,3 @@
-var db = {
-  "Data": {
-    "Users": [
-      {
-        "User": "Owner",
-        "Credits": ""
-      },
-      {
-        "User": "Deborah Carter",
-        "Credits": 0.00,
-        "isBanned\r": "FALSE\r"
-      },
-      {
-        "User": "Alyssa Carter",
-        "Credits": 0.00,
-        "isBanned\r": "FALSE\r"
-      },
-      {
-        "User": "Angel Carter",
-        "Credits": 0.00,
-        "isBanned\r": "FALSE\r"
-      },
-      {
-        "User": "test",
-        "Credits": 0.00,
-        "isBanned\r": "FALSE"
-      }
-    ]
-  }
-};
 
 function onScanSuccess(decodedText, decodedResult) {
   // handle the scanned code as you like, for example:
